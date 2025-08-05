@@ -1,4 +1,4 @@
-module github.com/nucleuscloud/go-antlrv4-parser
+module github.com/withprimer/go-antlrv4-parser
 
 go 1.22.2
 
